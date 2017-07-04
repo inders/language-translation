@@ -1,3 +1,9 @@
+Prereq
+
+1. tensorflow-1.1
+
+Resources
+
 1. Original Paper which started of this work - https://arxiv.org/pdf/1409.0473.pdf
 
 2. A great talk by Quoc Lee on this topic - https://www.youtube.com/watch?v=G5RY_SUJih4
